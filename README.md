@@ -15,9 +15,9 @@ This is a full-stack web application built using the MERN stack (MongoDB, Expres
 git clone https://github.com/your-username/mern-survey-form.git
 cd mern-survey-form
 cd api
-npm install
+yarn
 cd ../client
-npm install
+yarn
 ```
 
 ## Create a .env file with your MongoDB local or Atlas url
